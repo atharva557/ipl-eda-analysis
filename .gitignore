@@ -1,0 +1,21 @@
+# PyCharm & JetBrains IDEs
+.idea/
+*.iml
+out/
+gen/
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+archive(2).zip
